@@ -2,7 +2,7 @@
 
 
 - **Project objective:**
-- This project aims to analyze sales data and generate insightful reports to empower businesses in tracking performance and making data-driven decisions. The key objectives are:
+This project aims to analyze sales data and generate insightful reports to empower businesses in tracking performance and making data-driven decisions. The key objectives are:
  
     **1.** Create a _[customer performance report](https://github.com/guptaswati1310/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
